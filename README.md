@@ -8,7 +8,7 @@ Christopher P. Catano, chcatano@gmail.com, Michigan State University
 
 
 ## Metadata
-###file: BEF_ANALYSIS_DATA.csv
+### file: BEF_ANALYSIS_DATA.csv
 
 ### Column descriptions:
 "site": unique ID corresponding to each 500-m2 plot assigned randomly to establishment year treatments (n = 18; 6 sites / plant.year)
@@ -40,7 +40,8 @@ Christopher P. Catano, chcatano@gmail.com, Michigan State University
 “ANDGER”: Percent cover of Andropogon gerardii in each “plot” (i.e. 1-m2 subplot)
 
 
-###Files: trait_NMDS_data_Ecology.csv and species_NMDS_data_Ecology.csv
+
+### Files: trait_NMDS_data_Ecology.csv and species_NMDS_data_Ecology.csv
 
 ### Column descriptions:
 "NMDS1": First non-Metric Multidimensional Scaling axis of composition data (species or traits). Together with NMDS2 make up the (X,Y) coordinates of composition in ordination space.
